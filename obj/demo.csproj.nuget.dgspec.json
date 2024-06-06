@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet\\dotnetlearning\\demo.csproj": {}
+    "/Users/atit/_work/dotnetlearning/demo.csproj": {}
   },
   "projects": {
-    "D:\\dotnet\\dotnetlearning\\demo.csproj": {
+    "/Users/atit/_work/dotnetlearning/demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\dotnetlearning\\demo.csproj",
+        "projectUniqueName": "/Users/atit/_work/dotnetlearning/demo.csproj",
         "projectName": "demo",
-        "projectPath": "D:\\dotnet\\dotnetlearning\\demo.csproj",
-        "packagesPath": "C:\\Users\\trans\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\dotnetlearning\\obj\\",
+        "projectPath": "/Users/atit/_work/dotnetlearning/demo.csproj",
+        "packagesPath": "/Users/atit/.nuget/packages/",
+        "outputPath": "/Users/atit/_work/dotnetlearning/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trans\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/atit/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

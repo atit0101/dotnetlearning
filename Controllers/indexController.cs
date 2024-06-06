@@ -9,7 +9,7 @@ namespace api.Controllers
     {
         
         [HttpGet("hello")]
-        public IActionResult Hello()
+        public IActionResult H5ello()
         {
             Console.WriteLine("Hello");
             return Ok("Hello");
